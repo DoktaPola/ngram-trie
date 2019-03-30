@@ -7,9 +7,10 @@ import math
 
 REFERENCE_TEXT = ''
 if __name__ == '__main__':
-    with open('not_so_big_reference_text.txt', 'r') as f:
-        REFERENCE_TEXT = f.readlines()
-        TEXT = " ".join(REFERENCE_TEXT)
+    pass
+    # with open('not_so_big_reference_text.txt', 'r') as f:
+    #     REFERENCE_TEXT = f.readlines()
+    #     TEXT = " ".join(REFERENCE_TEXT)
 
 
 class WordStorage:
